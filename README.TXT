@@ -11,4 +11,4 @@ It is discussed in chapter 7.
 
 27. Yes the same patterns appear again.
 28. It is used to reset all elements of array 0. I'm pretty sure it does that before setting it to 1 again.
-29.
+30.
